@@ -1,0 +1,20 @@
+{
+  "ava:ava-generative-search": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
+  "chatgpt-md:call-chatgpt-api": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ]
+}

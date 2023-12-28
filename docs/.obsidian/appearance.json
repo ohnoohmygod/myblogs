@@ -1,0 +1,11 @@
+{
+  "accentColor": "#5225bb",
+  "cssTheme": "Minimal",
+  "theme": "system",
+  "interfaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "translucency": false,
+  "nativeMenus": true,
+  "textFontFamily": "JetBrains Mono",
+  "baseFontSize": 20
+}
